@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   viewBox="0 0 90.000512 90.000511"
+   x="0px"
+   y="0px"
+   version="1.1"
+   id="svg26"
+   sodipodi:docname="bathroom.svg"
+   width="90.000511"
+   height="90.000511"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>bathroom</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs30" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     id="namedview28"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.6700352"
+     inkscape:cx="-5.5280875"
+     inkscape:cy="18.383034"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg26" />
+  <title
+     id="title2">bathroom</title>
+  <g
+     id="g848"
+     transform="translate(5.9462556)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 5,13.279318 c 0,-2.97558 1.00489,-4.9887704 3.16211,-6.3354504 2.06592,-1.29 5.14014,-1.94384 9.13819,-1.94384 8.459,0 11.04822,2.92773 11.872,5.3103004 -8.579,1.134 -15.15375,7.14844 -15.15375,14.39575 a 2.49981,2.49981 0 0 0 2.5,2.5 h 31.15093 a 2.49981,2.49981 0 0 0 2.5,-2.5 c 0,-7.45239 -6.94892,-13.608 -15.884,-14.48608 C 33.32722,5.6584676 29.64948,-2.3388672e-6 17.30031,-2.3388672e-6 12.35158,-2.3388672e-6 8.38625,0.90917766 5.51418,2.7026276 1.90678,4.9541276 0,8.6118376 0,13.279318 v 31.833 h 5 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6"
+       d="m 39.33354,36.406758 a 2.0001,2.0001 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.0001,2.0001 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="m 32.09428,36.406758 a 2.00009,2.00009 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.0001,2.0001 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 24.85454,36.406758 a 2.0001,2.0001 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.00009,2.00009 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 42.95268,45.112328 a 2.0001,2.0001 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.0001,2.0001 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path14"
+       d="m 35.71342,45.112328 a 2.0001,2.0001 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.0001,2.0001 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="m 28.47417,45.112328 a 2.0001,2.0001 0 0 0 2,-2 v -2.68066 a 2,2 0 0 0 -4,0 v 2.68066 a 2.0001,2.0001 0 0 0 2,2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="m 21.23491,38.431668 a 2.0001,2.0001 0 0 0 -2,2 v 2.68066 a 2,2 0 0 0 4,0 v -2.68066 a 2.0001,2.0001 0 0 0 -2,-2 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path20"
+       d="M 75.608,50.363268 H 2.5 a 2.5,2.5 0 0 0 -2.5,2.5 v 8.95605 a 22.81354,22.81354 0 0 0 13.39207,20.75195 l -1.965,3.60639 a 2.59771,2.59771 0 0 0 0.747,3.40778 2.5,2.5 0 0 0 3.575,-0.88917 l 0.04541,-0.08331 a 7.81562,7.81562 0 0 1 6.94586,-4.00659 c 0.04681,6e-5 32.58051,6e-5 32.58051,6e-5 a 7.83616,7.83616 0 0 1 6.99249,4.0061 l 0.04559,0.08374 a 2.4997,2.4997 0 0 0 3.5766,0.88788 2.60534,2.60534 0 0 0 0.74078,-3.41491 l -1.96063,-3.598 A 22.81375,22.81375 0 0 0 78.108,61.819358 v -8.95609 a 2.5,2.5 0 0 0 -2.5,-2.5 z" />
+  </g>
+</svg>

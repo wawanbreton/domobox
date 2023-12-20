@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/play.svg</file>
+        <file>assets/next.svg</file>
+        <file>assets/previous.svg</file>
+        <file>assets/house.svg</file>
+        <file>assets/fire.svg</file>
+        <file>assets/automatic.svg</file>
+        <file>assets/error.svg</file>
+        <file>assets/wifi-0.svg</file>
+        <file>assets/wifi-1.svg</file>
+        <file>assets/wifi-2.svg</file>
+        <file>assets/wifi-3.svg</file>
+        <file>assets/add.svg</file>
+        <file>assets/stopwatch.svg</file>
+        <file>assets/clock.svg</file>
+        <file>assets/time-10.svg</file>
+        <file>assets/time-60.svg</file>
+        <file>assets/time-90.svg</file>
+        <file>assets/time-120.svg</file>
+        <file>assets/time-300.svg</file>
+        <file>assets/time-30.svg</file>
+        <file>assets/bluetooth.svg</file>
+        <file>assets/sofa.svg</file>
+        <file>assets/bathroom.svg</file>
+        <file>assets/stop.svg</file>
+        <file>assets/match.svg</file>
+        <file>assets/suitcase.svg</file>
+        <file>assets/settings.svg</file>
+        <file>assets/fire-off.svg</file>
+        <file>assets/switch.svg</file>
+        <file>assets/fire-turn-off.svg</file>
+        <file>assets/check.svg</file>
+        <file>assets/back.svg</file>
+        <file>assets/wifi-turn-off.svg</file>
+        <file>assets/minus.svg</file>
+        <file>assets/shutter.svg</file>
+        <file>assets/all.svg</file>
+        <file>assets/up.svg</file>
+        <file>assets/down.svg</file>
+        <file>assets/map.svg</file>
+        <file>assets/speaker-off.svg</file>
+        <file>assets/speaker-on.svg</file>
+    </qresource>
+</RCC>

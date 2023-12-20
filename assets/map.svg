@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="165.08688mm"
+   height="115.73252mm"
+   viewBox="0 0 165.08688 115.73252"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="map.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4699074"
+     inkscape:cx="410.91024"
+     inkscape:cy="187.08662"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24458" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.709968,-87.553855)">
+    <g
+       id="g24458"
+       transform="matrix(1.1845967,0,0,1.1845967,323.87519,500.41599)">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect19556"
+         width="136.79625"
+         height="95.132828"
+         x="-258.01691"
+         y="-347.24298"
+         rx="0"
+         ry="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -258.03342,-307.14527 h 49.94717"
+         id="path23368"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -240.70445,-347.05412 v 40.00284"
+         id="path23468"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000100;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -187.18454,-347.05412 v 23.71564"
+         id="path23683"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -162.46231,-347.00319 v 39.52898 h 41.17423"
+         id="path23952"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -170.17371,-252.46951 v -40.41611 h 48.50983"
+         id="path24052"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.93412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223353"
+         x="-229.34254"
+         y="-318.16013"
+         id="text28354"><tspan
+           sodipodi:role="line"
+           id="tspan28352"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.223353"
+           x="-229.34254"
+           y="-318.16013">Cuisine</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:8.93412px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223353"
+         x="-227.48001"
+         y="-284.90286"
+         id="text31803"><tspan
+           sodipodi:role="line"
+           id="tspan31801"
+           style="fill:#000000;fill-opacity:1;stroke-width:0.223353"
+           x="-227.48001"
+           y="-284.90286">Salon</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.1473px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223353"
+         x="-160.35968"
+         y="-311.81894"
+         id="text32481"><tspan
+           sodipodi:role="line"
+           id="tspan32479"
+           style="font-size:7.1473px;fill:#000000;fill-opacity:1;stroke-width:0.223353"
+           x="-160.35968"
+           y="-311.81894">Chambre 2</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.1473px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.223353"
+         x="-163.64931"
+         y="-276.51382"
+         id="text33083"><tspan
+           sodipodi:role="line"
+           id="tspan33081"
+           style="font-size:7.1473px;fill:#000000;fill-opacity:1;stroke-width:0.223353"
+           x="-163.64931"
+           y="-276.51382">Chambre 1</tspan></text>
+    </g>
+  </g>
+</svg>

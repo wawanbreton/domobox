@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainItem.qml</file>
+        <file>DomoComponent.qml</file>
+        <file>AudioComponent.qml</file>
+        <file>StyledButton.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>TimeComponent.qml</file>
+        <file>RoundCorner.qml</file>
+        <file>TemperatureComponent.qml</file>
+        <file>ColoredImage.qml</file>
+        <file>WifiComponent.qml</file>
+        <file>WeatherComponent.qml</file>
+        <file>FireComponent.qml</file>
+        <file>PopupAddWifiTime.qml</file>
+        <file>TemperatureChart.qml</file>
+        <file>ExplainedButton.qml</file>
+        <file>Holiday.qml</file>
+        <file>StyledTumbler.qml</file>
+        <file>TemperaturePlanning.qml</file>
+        <file>DomoDialog.qml</file>
+        <file>Thresholds.qml</file>
+        <file>HotPeriodItem.qml</file>
+        <file>HotPeriodTimeSpinBox.qml</file>
+        <file>DailyPeriodsItem.qml</file>
+        <file>ShutterComponent.qml</file>
+        <file>ShutterSelector.qml</file>
+    </qresource>
+</RCC>
